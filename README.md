@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Theshan Nawarathna</h1>
 <h3 align="center">Undergraduate cyber security student at SLIIT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it22117496&label=Profile%20views&color=0e75b6&style=flat" alt="it22117496" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=it22117496&label=Profile%20views&color=0e75b6&style=flat" alt="it22117496" /> </p>
 
 - 🌱 I’m currently learning **Python**
 
